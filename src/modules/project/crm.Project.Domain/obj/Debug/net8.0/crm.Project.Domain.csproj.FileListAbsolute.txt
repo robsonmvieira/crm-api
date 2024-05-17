@@ -1,0 +1,15 @@
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/bin/Debug/net8.0/crm.Project.Domain.deps.json
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/bin/Debug/net8.0/crm.Project.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/bin/Debug/net8.0/crm.Project.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.AssemblyInfoInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.AssemblyInfo.cs
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.csproj.CoreCompileInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/refint/crm.Project.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/ref/crm.Project.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/bin/Debug/net8.0/crm.Core.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/bin/Debug/net8.0/crm.Core.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Project.Domain.csproj.AssemblyReference.cache
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/Debug/net8.0/crm.Proj.39EC051F.Up2Date

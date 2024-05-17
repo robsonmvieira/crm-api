@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  # api:
+  #   build: .
+  #   ports:
+  #     - "8000:80" # Mapeia a porta 80 da API para a porta 8000 do host
+  #   depends_on:
+  #     - db
+  #   # environment:
+  #   #   - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=meudb;Username=postgres;Password=minhasenha;
+
+  db:
+    image: postgres:14
+    container_name: crm-postgres-Db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: crmDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    # volumes:
+    #   - pgdata:/var/lib/postgresql/data
+# volumes:
+#   pgdata:

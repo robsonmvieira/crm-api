@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/crm.Project.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/crm.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/crm.Core.Domain.csproj",
+        "projectName": "crm.Core.Domain",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/crm.Core.Domain.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/crm.Project.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/crm.Project.Domain.csproj",
+        "projectName": "crm.Project.Domain",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/crm.Project.Domain.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/crm.Core.Domain.csproj": {
+                "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/crm.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

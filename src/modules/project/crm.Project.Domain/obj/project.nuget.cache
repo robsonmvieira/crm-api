@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiKQzbd52wzQ/6FfUhvCwHVlYmR4IWZDnG399VwD3uTGNqUXVEQyccSmltgtq/yeog/pcZ6dT2JqPEooXCJaew==",
+  "success": true,
+  "projectFilePath": "/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/project/crm.Project.Domain/crm.Project.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/robsonmaia/.nuget/packages/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.sha512",
+    "/Users/robsonmaia/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.1/fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "/Users/robsonmaia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

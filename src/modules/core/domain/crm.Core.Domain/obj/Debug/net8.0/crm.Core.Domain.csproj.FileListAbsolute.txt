@@ -1,0 +1,12 @@
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.AssemblyInfoInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.AssemblyInfo.cs
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.csproj.CoreCompileInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/bin/Debug/net8.0/crm.Core.Domain.deps.json
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/bin/Debug/net8.0/crm.Core.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/bin/Debug/net8.0/crm.Core.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/refint/crm.Core.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/ref/crm.Core.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/crm/src/modules/core/domain/crm.Core.Domain/obj/Debug/net8.0/crm.Core.Domain.csproj.AssemblyReference.cache
